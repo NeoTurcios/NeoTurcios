@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Andrés%20Turcios&fontSize=70&animation=fadeIn" />
+  <img src="https://ishan-rest.vercel.app/svg/banner/creative/NeoTurcios" alt="Creative Banner" />
 </p>
 
 <h1 align="center">¡Hola! Soy Andrés Turcios 👋</h1>
