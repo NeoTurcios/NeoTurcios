@@ -60,9 +60,13 @@ Soy el **Director Ejecutivo** de **NeoPunto**, un estudio digital especializado 
 ### 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NeoTurcios&show_icons=true&theme=dark&hide_border=false" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-alpha.vercel.app/api?username=NeoTurcios&show_icons=true&theme=dark" alt="GitHub Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeoTurcios&layout=compact&theme=dark&hide_border=false" alt="Top Langs" />
+  <img src="https://github-readme-stats-alpha.vercel.app/api/top-langs/?username=NeoTurcios&layout=compact&theme=dark" alt="Top Langs" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NeoTurcios&theme=dark" alt="GitHub Streak" />
 </p>
 
 ---
