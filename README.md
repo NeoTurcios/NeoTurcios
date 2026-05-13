@@ -83,7 +83,7 @@ Soy el **Director Ejecutivo** de **NeoPunto**, un estudio digital especializado 
 </p>
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/NeoTurcios/count.svg" alt="Profile Views" />
+  <img src="https://gpvc.arturio.dev/NeoTurcios" alt="Profile Views" />
 </p>
 
 <p align="center">
